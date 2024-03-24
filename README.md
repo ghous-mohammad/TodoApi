@@ -1,14 +1,14 @@
-#Title: ToDo API with FastAPI, Neon, Poetry, and SQLModel
+#ToDo API with FastAPI, Neon, Poetry, and SQLModel
 
-##Description:
+#Description:
 
 This repository provides a ToDo API built using FastAPI, Neon, Poetry for dependency management, and SQLModel for interacting with a database.
 
 Features:
 
-1.Create, read, update, and delete (CRUD) operations for ToDo items.
-2.Dependency management and environment isolation with Poetry.
-3.Database interaction and modeling with SQLModel.
+1.Create, read, update, and delete (CRUD) operations for ToDo items.<br>
+2.Dependency management and environment isolation with Poetry.<br />
+3.Database interaction and modeling with SQLModel.<br/>
 
 Prerequisites:
 
